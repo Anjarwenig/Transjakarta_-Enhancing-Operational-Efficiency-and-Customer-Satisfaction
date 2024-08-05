@@ -27,8 +27,10 @@ Transjakarta faces significant challenges with route efficiency and congestion, 
 - **GitHub**: For version control and collaboration.
 
 ## Getting Started
-
-1. **Clone the Repository**:
+- Data Understanding
+- Data Cleaning
+- Data Exploration, Analysis
+- Conclusion and recomendation
 
 ## Visualization Tableu
 https://public.tableau.com/views/TransJakartaCongestionAnalysis/TransJakartacongestionAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
